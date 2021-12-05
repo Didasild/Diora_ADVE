@@ -77,7 +77,6 @@ public class ThirdPersonMovement : MonoBehaviour
         getHurt = false;
 
     }
-
     void Update()
     {
         ////MOVEMENT////
